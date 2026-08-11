@@ -136,11 +136,9 @@ Interactive HR Analytics Dashboard built using Microsoft Power BI.
 
 <div align="center">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=pranai-777&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&icon_color=2563EB&text_color=64748B"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=pranai-777&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&icon_color=2563EB&text_color=64748B" />
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranai-777&layout=compact&hide_border=true&theme=transparent&title_color=2563EB&text_color=64748B"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranai-777&layout=compact&hide_border=true&theme=transparent&title_color=2563EB&text_color=64748B" />
 
 </div>
 
@@ -150,10 +148,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranai-777&l
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=pranai-777&hide_border=true&theme=transparent&ring=2563EB&fire=2563EB&currStreakLabel=2563EB"/>
+<img src="https://streak-stats.demolab.com?user=pranai-777&hide_border=true&theme=transparent&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" />
 
 </div>
-
 ---
 
 ## 📈 Contribution Activity
