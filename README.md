@@ -108,41 +108,27 @@ deployment, and visualization.
 > A selection of projects demonstrating my approach to data, machine learning,
 > and software engineering.
 
-### 🔬 Machine Learning
+### 🔬 Machine Learning / AI
 
-**Project Name**
+**AI_Diet_Recommendation_System**
 
-Machine learning project focused on solving a real-world prediction problem.
+AI-powered food image classification with nutrition analysis and diet recommendation using TensorFlow and Streamlit.
 
 **Tech:** Python • Pandas • Scikit-learn • XGBoost
 
-[View Project →](https://github.com/pranai-777)
-
----
-
-### 🧠 AI / NLP
-
-**Project Name**
-
-NLP / AI application demonstrating data preprocessing, model development,
-evaluation, and practical deployment.
-
-**Tech:** Python • NLP • PyTorch • Transformers
-
-[View Project →](https://github.com/pranai-777)
+[View Project →](https://github.com/pranai-777/AI_Diet_Recommendation_System)
 
 ---
 
 ### 📊 Data Analytics
 
-**Project Name**
+**HR-Analytics-Dashboard**
 
-Data analytics project transforming raw datasets into actionable insights
-through exploratory analysis and visualization.
+Interactive HR Analytics Dashboard built using Microsoft Power BI.
 
 **Tech:** Python • Pandas • SQL • Power BI
 
-[View Project →](https://github.com/pranai-777)
+[View Project →](https://github.com/pranai-777/HR-Analytics-Dashboard)
 
 ---
 
