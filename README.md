@@ -141,15 +141,6 @@ Interactive HR Analytics Dashboard built using Microsoft Power BI.
 
 </div>
 
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pranai-777&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-
-</div>
 
 ---
 
