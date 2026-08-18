@@ -131,16 +131,6 @@ Interactive HR Analytics Dashboard built using Microsoft Power BI.
 [View Project →](https://github.com/pranai-777/HR-Analytics-Dashboard)
 
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranai-777&bg_color=ffffff&color=2563EB&line=2563EB&point=1D4ED8&area=true&hide_border=true"/>
-
-</div>
-
 
 ---
 
